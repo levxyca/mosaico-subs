@@ -1,6 +1,5 @@
-Esse foi um projeto desenvolvido para estudar Grid Layout.
 <p align="center">
-  <img src="img/preview.JPG" href="http://levxyca.codes/mosaico-subs/">
+  <img src="img/preview.jpg" href="http://levxyca.codes/mosaico-subs/">
 <p>
   
 # Mosaico dos Subscribers
