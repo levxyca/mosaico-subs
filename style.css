@@ -1,0 +1,319 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;1,300&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #FAFAFA;
+    background-color: #252525;
+    margin: 0;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(72, 1fr);
+}
+
+/* Subs Gerais */
+.sub {
+    padding: 1.5rem;
+    border: solid 1px #FAFAFA;
+}
+
+/* Meses */
+.m5 {
+    background-color: #BAD455;
+    font-size: 120px;
+}
+
+.m4 {
+    background-color: rgb(255, 0, 188);
+    font-size: 72px;
+}
+
+.m3 {
+    background-color: #993399;
+    font-size: 64px;
+}
+
+.m2 {
+    background-color: #673dff;
+    font-size: 32px;
+}
+
+.m1 {
+    background-color: #808080;
+    font-size: 16px;
+}
+
+/* Subs Persona */
+
+.pokemaobr {
+    grid-column: 1 / 5;
+    grid-row: 1 / 5;
+    text-align: center;
+}
+
+.cafecodes {
+    grid-column: 5 / 6;
+    grid-row: 1 / 2;
+    text-align: center;
+}
+
+.dkdbr {
+    grid-column: 5 / 6;
+    grid-row: 2 / 3;
+    text-align: center;
+}
+
+.morgiovanelli {
+    grid-column: 1 / 3;
+    grid-row: 5 / 7;
+    text-align: center;
+}
+
+.ruudiii {
+    grid-column: 5 / 6;
+    grid-row: 3 / 4;
+    text-align: center;
+}
+
+.tonhocodesbot {
+    grid-column: 5 / 6;
+    grid-row: 4 / 5;
+    text-align: center;
+}
+
+.freakyfog {
+    grid-column: 1 / 2;
+    grid-row: 7 / 8;
+    text-align: center;
+}
+
+.jluizdantas {
+    grid-column: 2 / 3;
+    grid-row: 7 / 8;
+    text-align: center;
+}
+
+.luizlost01 {
+    grid-column: 4 / 5;
+    grid-row: 15 / 16;
+    text-align: center;
+}
+
+.stuttering6 {
+    grid-column: 1 / 3;
+    grid-row: 19 / 21;
+    text-align: center;
+}
+
+.pachicodes {
+    grid-column: 1 / 6;
+    grid-row: 8 / 13;
+    text-align: center;
+}
+
+.erikaheidi {
+    grid-column: 3 / 6;
+    grid-row: 5 / 8;
+    text-align: center;
+}
+
+.uelei_999 {
+    grid-column: 4 / 6;
+    grid-row: 13 / 15;
+    text-align: center;
+}
+
+.lukaocodes {
+    grid-column: 1 / 4;
+    grid-row: 13 / 16;
+    text-align: center;
+}
+
+.pedrotomazalves {
+    grid-column: 1 / 2;
+    grid-row: 15 / 16;
+    text-align: center;
+}
+
+.NarioDev {
+    grid-column: 2 / 5;
+    grid-row: 16 / 19;
+    text-align: center;
+}
+
+.kennykn1_ {
+    grid-column: 5 / 6;
+    grid-row: 15 / 16;
+    text-align: center;
+}
+
+.pandadomalbot {
+    grid-column: 5 / 6;
+    grid-row: 16 / 17;
+    text-align: center;
+}
+
+.luquinhapoppin {
+    grid-column: 5 / 6;
+    grid-row: 17 / 18;
+    text-align: center;
+}
+
+.caayu_ {
+    grid-column: 5 / 6;
+    grid-row: 18 / 19;
+    text-align: center;
+}
+
+.chicocodesbot {
+    grid-column: 1 / 2;
+    grid-row: 16 / 17;
+    text-align: center;
+}
+
+.mmenoli {
+    grid-column: 1 / 2;
+    grid-row: 17 / 18;
+    text-align: center;
+}
+
+.paulobeckman {
+    grid-column: 1 / 2;
+    grid-row: 18 / 19;
+    text-align: center;
+}
+
+.xTecna {
+    grid-column: 3 / 6;
+    grid-row: 19 / 22;
+    text-align: center;
+}
+
+.tonhocodes {
+    grid-column: 1 / 5;
+    grid-row: 22 / 26;
+    text-align: center;
+}
+
+.yasser3k {
+    grid-column: 4 / 6;
+    grid-row: 26 / 28;
+    text-align: center;
+}
+
+.leocavalcantee {
+    grid-column: 1 / 3;
+    grid-row: 26 / 28;
+    text-align: center;
+}
+
+.davibusanello {
+    grid-column: 1 / 4;
+    grid-row: 28 / 31;
+    text-align: center;
+}
+
+.muffyway {
+    grid-column: 4 / 6;
+    grid-row: 29 / 31;
+    text-align: center;
+}
+
+.reisdev {
+    grid-column: 2 / 6;
+    grid-row: 31 / 35;
+    text-align: center;
+}
+
+.rn4n {
+    grid-column: 3 / 6;
+    grid-row: 35 / 38;
+    text-align: center;
+}
+
+.vitthin {
+    grid-column: 1 / 3;
+    grid-row: 35 / 37;
+    text-align: center;
+}
+
+.cfreitas {
+    grid-column: 4 / 6;
+    grid-row: 38 / 40;
+    text-align: center;
+}
+
+.nesclimn10 {
+    grid-column: 1 / 4;
+    grid-row: 38 / 41;
+    text-align: center;
+}
+
+.toni_salv3s {
+    grid-column: 2 / 6;
+    grid-row: 41 / 45;
+    text-align: center;
+}
+
+.camzdsousa {
+    grid-column: 1 / 5;
+    grid-row: 45 / 49;
+    text-align: center;
+}
+
+.jpbrab0 {
+    grid-column: 2 / 6;
+    grid-row: 49 / 53;
+    text-align: center;
+}
+
+.kastr0walker {
+    grid-column: 1 / 5;
+    grid-row: 53 / 57;
+    text-align: center;
+}
+
+.ain_chase147 {
+    grid-column: 4 / 6;
+    grid-row: 57 / 59;
+    text-align: center;
+}
+
+.felipef0ntana {
+    grid-column: 1 / 3;
+    grid-row: 57 / 59;
+    text-align: center;
+}
+
+.wldomiciano {
+    grid-column: 1 / 4;
+    grid-row: 59 / 62;
+    text-align: center;
+}
+
+.altthabs {
+    grid-column: 3 / 6;
+    grid-row: 62 / 65;
+    text-align: center;
+}
+
+.brunoaquitemcafe {
+    grid-column: 4 / 6;
+    grid-row: 60 / 62;
+    text-align: center;
+}
+
+.chicocodes {
+    grid-column: 1 / 5;
+    grid-row: 65 / 69;
+    text-align: center;
+}
+
+.caroldonadel {
+    grid-column: 2 / 6;
+    grid-row: 69 / 73;
+    text-align: center;
+}
